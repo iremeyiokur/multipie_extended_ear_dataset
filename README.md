@@ -1,4 +1,4 @@
-# MultiPie Ear Extended Dataset
+# MultiPie Extended Ear Dataset
 
 This dataset was generated from Multi-PIE face dataset [1, 2]. In this repository, we just published image name from Multi-PIE face dataset and detected ear coordinates. You can use face images and corresponding coordinates to obtain ear images.
 
