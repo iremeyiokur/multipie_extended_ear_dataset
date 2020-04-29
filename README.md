@@ -1,5 +1,7 @@
 # MultiPie Extended Ear Dataset
 
+### Dataset Definition
+
 This dataset was generated from Multi-PIE face dataset [1, 2]. In this repository, we just published image name from Multi-PIE face dataset and detected ear coordinates. You can use face images and corresponding coordinates to obtain ear images.
 
 This dataset is the extended version of [Multi-PIE ear dataset](https://github.com/iremeyiokur/multipie_ear_dataset).
@@ -14,7 +16,7 @@ This dataset has been explained and has been used in [our paper](http://openacce
   year={2019}
 }
 ```
-### CSV Files
+### CSV File
 
 CSV file contains following headers:
 
