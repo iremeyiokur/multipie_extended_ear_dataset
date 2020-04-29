@@ -16,6 +16,7 @@ This dataset has been explained and has been used in [our paper](http://openacce
   year={2019}
 }
 ```
+
 ### CSV File
 
 CSV file contains following headers:
@@ -31,9 +32,12 @@ CSV file contains following headers:
 | w | Width of the bounding box |
 | h | Height of the bounding box |
 
-Note: Ear detection script will be uploaded.
 
-**References**
+Note: Ear detection script, train, and test files will be uploaded.
+
+
+### References
+
 - [1] Gross, R., Matthews, I., Cohn, J.F., et al.: ‘Multi-PIE’. IEEE Int. Conf. on
 Automatic Face and Gesture Recognition (FG), 2008.
 - [2] Gross, R., Matthews, I., Cohn, J.F., et al.: ‘Multi-PIE’. Image and Vision
