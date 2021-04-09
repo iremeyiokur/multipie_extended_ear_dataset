@@ -33,7 +33,6 @@ CSV file contains following headers:
 | h | Height of the bounding box |
 
 
-Note: Ear detection script, train, and test files will be uploaded.
 
 
 ### References
